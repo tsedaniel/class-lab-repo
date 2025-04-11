@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Daniel Nielsen  
+- Certification: Version Control Certification  
 
 ## Instructions
 Please replace the placeholders with your details:
